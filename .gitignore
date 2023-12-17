@@ -1,0 +1,20 @@
+# Ignore compiled Python bytecode
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore sensitive or private information
+creds_dev.json
+token*.json
+
+# Ignore build artifacts
+build/
+dist/
